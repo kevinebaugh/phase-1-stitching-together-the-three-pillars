@@ -11,6 +11,10 @@ body > header {
   margin-bottom: 5%;
 }
 
+.like-glyph {
+  cursor: pointer
+}
+
 article.media-post {
   border: solid 1px #000;
   margin: 2% 3%;
